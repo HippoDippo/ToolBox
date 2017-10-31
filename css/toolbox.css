@@ -1,0 +1,27 @@
+/*********************************************/
+/*                ToolBox.css                */
+/*           Author: Kaycee Ingram           */
+/*********************************************/
+
+
+
+/*****************************/
+
+#main-header {
+  color: #0880ed;
+  background-color: #eee;
+  border-radius: 7px;
+  font-size: 55px;
+  padding: 2em;
+  margin: 0 33px;
+}
+
+#about-header {
+  /* More specific styling */
+}
+
+#contact-header {
+  /* More specific styling */
+}
+
+/*****************************/

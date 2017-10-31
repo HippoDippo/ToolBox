@@ -1,0 +1,46 @@
+/*********************************************/
+/*            ToolBox-Classes.css            */
+/*           Author: Kaycee Ingram           */
+/*********************************************/
+
+
+
+/*   Pre-Built CSS Classes   */
+/*****************************/
+
+.center-content {
+  text-align: center;
+}
+
+.cushion {
+  padding: 33px 33px 33px 33px;
+  margin: 33px 33px 33px 33px;
+}
+   
+.secondary-background {
+  background-color: #ddd;
+  border-radius: .3em;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  margin-left: 33px;;
+  margin-right: 33px;
+}
+
+.heading {
+  font-size: 43px;
+}
+
+.paragraph {
+  font-size: 25px;
+}
+  
+.clean-link {
+  color: #0880ed;
+  text-decoration: none;
+}
+  
+.clean-link:hover {
+  color: #ff506f;
+}
+  
+  /*****************************/

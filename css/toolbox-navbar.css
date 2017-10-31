@@ -1,0 +1,56 @@
+/*********************************************/
+/*            ToolBox-Navbar.css             */
+/*           Author: Kaycee Ingram           */
+/*********************************************/
+
+
+
+/*               Nav-Bar               */
+/***************************************/
+.nav-bar a {
+  color: #F2F7F7;
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: block;
+  padding: 14px 16px;
+  margin-right: 23px;
+  text-decoration: none;
+}
+  
+.nav-bar a:hover {
+  background-color: #F2F7F7;
+  color: #24292e;
+}
+  
+.nav-bar li {
+  float: right;
+}
+  
+.nav-bar ul {
+  background-color: #24292e;
+  list-style-type: none;
+  overflow: hidden;
+  margin-top: -7.7px;
+  margin-right: -7.7px;
+  margin-left: -7.7px;
+  padding: 0;
+}
+
+.current-page a {
+  color: #0880ed;
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: block;
+  padding: 14px 16px;
+  margin-right: 14px;
+  text-decoration: none;
+}
+
+.current-page a:hover {
+  color: #0880ed;
+  background-color: #F2F7F7;
+}
+
+/*************************************/
