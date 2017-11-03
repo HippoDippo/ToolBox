@@ -20,10 +20,7 @@
 .secondary-background {
   background-color: #ddd;
   border-radius: .3em;
-  margin-top: 3em;
-  margin-bottom: 3em;
-  margin-left: 33px;;
-  margin-right: 33px;
+  margin: 3em 33px;
 }
 
 .heading {
